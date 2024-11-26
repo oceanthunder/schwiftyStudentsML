@@ -1,7 +1,5 @@
 # Become a Schwifty Student
 
-This repository contains various machine learning models applied to a dataset on student performance. Below are the descriptions of the files:
-
 - **CNN-1.py**: Implements a Convolutional Neural Network (CNN) model.
 - **CNN-2.py**: Enhances the CNN model from `CNN-1.py` by adding early stopping and learning rate reduction.
 - **RandomForest.py**: Implements a Random Forest model.
